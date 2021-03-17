@@ -5,6 +5,7 @@ author: data/team/gordon-norman.json
 categories:
   - data/categories/tutorials.json
   - data/categories/category-lfdzgz4fy.json
+  - data/categories/category-m5g56s15t.json
 tags:
   - Stackbit
   - Netlify
