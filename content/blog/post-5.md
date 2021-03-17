@@ -4,6 +4,7 @@ date: '2020-06-02'
 author: data/team/gordon-norman.json
 categories:
   - data/categories/tutorials.json
+  - data/categories/category-lfdzgz4fy.json
 tags:
   - Stackbit
   - Netlify
